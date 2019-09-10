@@ -53,3 +53,5 @@ plot(fit1)
 # vif(fit2)
 # 
 # plot(fit2)
+
+
