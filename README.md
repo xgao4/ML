@@ -1,2 +1,2 @@
 # R-Linear-Regression
-This is a Linear Regression by R
+This is a Linear Regression Sample Case by R
